@@ -1,0 +1,646 @@
+
+¶
+java:S6539"ŸSplit this â€œMonster Classâ€ into smaller and more specialized ones to reduce its dependencies on other classes from 21 to the maximum authorized 20 or less.(Ñí»Å
+Š
+java:S1192;"oDefine a constant instead of duplicating this literal "kotlin_dsl_deprecated_catalogs_plugins_block" 134 times.(¨Ôê¶øÿÿÿÿ
+Ÿ
+java:S1192;"ƒDefine a constant instead of duplicating this literal "Only use versions or plugins from catalogs in the plugins block." 134 times.(¨Ôê¶øÿÿÿÿ
+©
+java:S1192;"Define a constant instead of duplicating this literal "Accessing libraries or bundles from version catalogs in the plugins block." 134 times.(¨Ôê¶øÿÿÿÿ
+Y
+java:S1874"CRemove this use of "AccompanistLibraryAccessors"; it is deprecated.(¬–â
+Y
+java:S1874"CRemove this use of "AccompanistLibraryAccessors"; it is deprecated.(¬–â
+T
+java:S1874"?Remove this use of "AndroidLibraryAccessors"; it is deprecated.(ÑÚ¨C
+T
+java:S1874"?Remove this use of "AndroidLibraryAccessors"; it is deprecated.(ÑÚ¨C
+[
+java:S1874"@Remove this use of "AndroidxLibraryAccessors"; it is deprecated.(‹·¢œüÿÿÿÿ
+[
+java:S1874"@Remove this use of "AndroidxLibraryAccessors"; it is deprecated.(‹·¢œüÿÿÿÿ
+P
+java:S1874";Remove this use of "AppLibraryAccessors"; it is deprecated.(úÄŞ:
+P
+java:S1874";Remove this use of "AppLibraryAccessors"; it is deprecated.(úÄŞ:
+Y
+java:S1874">Remove this use of "CameraLibraryAccessors"; it is deprecated.(¤®Š™üÿÿÿÿ
+Y
+java:S1874">Remove this use of "CameraLibraryAccessors"; it is deprecated.(¤®Š™üÿÿÿÿ
+W
+java:S1874"<Remove this use of "CoilLibraryAccessors"; it is deprecated.(Óé›şÿÿÿÿ
+W
+java:S1874"<Remove this use of "CoilLibraryAccessors"; it is deprecated.(Óé›şÿÿÿÿ
+U
+java:S1874"?Remove this use of "ComposeLibraryAccessors"; it is deprecated.(‘ßÂ
+U
+java:S1874"?Remove this use of "ComposeLibraryAccessors"; it is deprecated.(‘ßÂ
+U
+java:S1874 "?Remove this use of "DesugarLibraryAccessors"; it is deprecated.(¤ÔÍ»
+U
+java:S1874 "?Remove this use of "DesugarLibraryAccessors"; it is deprecated.(¤ÔÍ»
+V
+java:S1874!"@Remove this use of "FirebaseLibraryAccessors"; it is deprecated.(¼‰úÿ
+V
+java:S1874!"@Remove this use of "FirebaseLibraryAccessors"; it is deprecated.(¼‰úÿ
+R
+java:S1874""<Remove this use of "HiltLibraryAccessors"; it is deprecated.(öÂ¤
+R
+java:S1874""<Remove this use of "HiltLibraryAccessors"; it is deprecated.(öÂ¤
+Y
+java:S1874#">Remove this use of "KotlinLibraryAccessors"; it is deprecated.(‹÷Ôüÿÿÿÿ
+Y
+java:S1874#">Remove this use of "KotlinLibraryAccessors"; it is deprecated.(‹÷Ôüÿÿÿÿ
+Z
+java:S1874$"?Remove this use of "KotlinxLibraryAccessors"; it is deprecated.(ª‚³÷ûÿÿÿÿ
+Z
+java:S1874$"?Remove this use of "KotlinxLibraryAccessors"; it is deprecated.(ª‚³÷ûÿÿÿÿ
+P
+java:S1874%";Remove this use of "KspLibraryAccessors"; it is deprecated.(òí£2
+P
+java:S1874%";Remove this use of "KspLibraryAccessors"; it is deprecated.(òí£2
+]
+java:S1874&"BRemove this use of "LeakcanaryLibraryAccessors"; it is deprecated.(ÃÌ™Öşÿÿÿÿ
+]
+java:S1874&"BRemove this use of "LeakcanaryLibraryAccessors"; it is deprecated.(ÃÌ™Öşÿÿÿÿ
+T
+java:S1874'">Remove this use of "OkhttpLibraryAccessors"; it is deprecated.(„òğ
+T
+java:S1874'">Remove this use of "OkhttpLibraryAccessors"; it is deprecated.(„òğ
+[
+java:S1874("@Remove this use of "RetrofitLibraryAccessors"; it is deprecated.(±ã—¨üÿÿÿÿ
+[
+java:S1874("@Remove this use of "RetrofitLibraryAccessors"; it is deprecated.(±ã—¨üÿÿÿÿ
+W
+java:S1874)"<Remove this use of "WorkLibraryAccessors"; it is deprecated.(Ôƒß®úÿÿÿÿ
+W
+java:S1874)"<Remove this use of "WorkLibraryAccessors"; it is deprecated.(Ôƒß®úÿÿÿÿ
+V
+java:S1874*"@Remove this use of "ZoomableLibraryAccessors"; it is deprecated.(ğ‹ô
+V
+java:S1874*"@Remove this use of "ZoomableLibraryAccessors"; it is deprecated.(ğ‹ô
+M
+java:S1874,"7Remove this use of "BundleAccessors"; it is deprecated.(×–”ú
+M
+java:S1874,"7Remove this use of "BundleAccessors"; it is deprecated.(×–”ú
+^
+java:S63559"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+K
+java:S1133:"5Do not forget to remove this deprecated code someday.(ŒÏ˜­
+^
+java:S6355D"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+P
+java:S1133E"5Do not forget to remove this deprecated code someday.(ÉÚ™úÿÿÿÿ
+^
+java:S6355O"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+K
+java:S1133P"5Do not forget to remove this deprecated code someday.(µÖ³‰
+^
+java:S6355Z"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+P
+java:S1133["5Do not forget to remove this deprecated code someday.(ßœÀÓúÿÿÿÿ
+^
+java:S6355e"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+P
+java:S1133f"5Do not forget to remove this deprecated code someday.(™…é‡úÿÿÿÿ
+^
+java:S6355p"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+P
+java:S1133q"5Do not forget to remove this deprecated code someday.(Òƒıøüÿÿÿÿ
+^
+java:S6355z"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+K
+java:S1133{"5Do not forget to remove this deprecated code someday.(ïÒ²
+_
+java:S6355„"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133…"5Do not forget to remove this deprecated code someday.(ÁÊùêûÿÿÿÿ
+_
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(ùÌÀ¼ÿÿÿÿÿ
+_
+java:S6355˜"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133™"5Do not forget to remove this deprecated code someday.(ÅÀ†øÿÿÿÿ
+_
+java:S6355¢"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133£"5Do not forget to remove this deprecated code someday.(áßØ„
+_
+java:S6355¬"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133­"5Do not forget to remove this deprecated code someday.(÷Ş´
+_
+java:S6355¶"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133·"5Do not forget to remove this deprecated code someday.(àíªÅ
+_
+java:S6355À"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133Á"5Do not forget to remove this deprecated code someday.(ÙßÀõ
+_
+java:S6355Ê"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133Ë"5Do not forget to remove this deprecated code someday.(´×úùùÿÿÿÿ
+_
+java:S6355Ô"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133Õ"5Do not forget to remove this deprecated code someday.(óĞ—ıÿÿÿÿ
+_
+java:S6355Ş"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133ß"5Do not forget to remove this deprecated code someday.(ûÏÀ²
+_
+java:S6355è"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133é"5Do not forget to remove this deprecated code someday.(¯«çûÿÿÿÿ
+_
+java:S6355ò"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133ó"5Do not forget to remove this deprecated code someday.(˜ı¯œ
+_
+java:S6355ü"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133ı"5Do not forget to remove this deprecated code someday.(ù¸êŒ
+_
+java:S6355†"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133‡"5Do not forget to remove this deprecated code someday.(öÉÓ
+_
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133‘"5Do not forget to remove this deprecated code someday.(ïÜÚÆ
+_
+java:S6355š"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133›"5Do not forget to remove this deprecated code someday.(ª‘Ü’
+_
+java:S6355¤"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133¥"5Do not forget to remove this deprecated code someday.(§œé€úÿÿÿÿ
+_
+java:S6355µ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133¶"5Do not forget to remove this deprecated code someday.(Ô‚ªøÿÿÿÿ
+_
+java:S6355Å"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133Æ"5Do not forget to remove this deprecated code someday.(Ú¾Ó‹ÿÿÿÿÿ
+Q
+java:S1133Ğ"5Do not forget to remove this deprecated code someday.(ÒÑ©øÿÿÿÿ
+Q
+java:S1133Û"5Do not forget to remove this deprecated code someday.(ñß¤–ÿÿÿÿÿ
+_
+java:S6355å"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133æ"5Do not forget to remove this deprecated code someday.(²Šª«úÿÿÿÿ
+Q
+java:S1133ò"5Do not forget to remove this deprecated code someday.(€åÿïÿÿÿÿÿ
+Q
+java:S1133ü"5Do not forget to remove this deprecated code someday.(²éÔ³øÿÿÿÿ
+Q
+java:S1133†"5Do not forget to remove this deprecated code someday.(öÀÒşÿÿÿÿ
+_
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133‘"5Do not forget to remove this deprecated code someday.(ÌÌùÙüÿÿÿÿ
+Q
+java:S1133›"5Do not forget to remove this deprecated code someday.(÷¥Çèüÿÿÿÿ
+_
+java:S6355¥"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133¦"5Do not forget to remove this deprecated code someday.(‡†ç‰
+Q
+java:S1133°"5Do not forget to remove this deprecated code someday.(÷¥Çèüÿÿÿÿ
+_
+java:S6355º"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133»"5Do not forget to remove this deprecated code someday.(İ‚ìüÿÿÿÿ
+L
+java:S1133Å"5Do not forget to remove this deprecated code someday.(çï²¥
+_
+java:S6355Ï"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133Ğ"5Do not forget to remove this deprecated code someday.(²ºö
+K
+java:S1133ç"5Do not forget to remove this deprecated code someday.(²š“
+Q
+java:S1133ò"5Do not forget to remove this deprecated code someday.(™…é‡úÿÿÿÿ
+K
+java:S1133ü"5Do not forget to remove this deprecated code someday.(â¼Á>
+Q
+java:S1133†"5Do not forget to remove this deprecated code someday.(À£Üúÿÿÿÿ
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(ÔÏé€üÿÿÿÿ
+L
+java:S1133š"5Do not forget to remove this deprecated code someday.(ÙÍó©
+Q
+java:S1133¤"5Do not forget to remove this deprecated code someday.(ß¹ƒúÿÿÿÿ
+L
+java:S1133®"5Do not forget to remove this deprecated code someday.(‚¢³ü
+L
+java:S1133¸"5Do not forget to remove this deprecated code someday.(—É À
+Q
+java:S1133Â"5Do not forget to remove this deprecated code someday.(„­ü§ùÿÿÿÿ
+Q
+java:S1133Ì"5Do not forget to remove this deprecated code someday.(¢‚æìûÿÿÿÿ
+Q
+java:S1133Ö"5Do not forget to remove this deprecated code someday.(‰“•üÿÿÿÿ
+L
+java:S1133à"5Do not forget to remove this deprecated code someday.(«å°«
+L
+java:S1133ê"5Do not forget to remove this deprecated code someday.(ÛË“¯
+L
+java:S1133ô"5Do not forget to remove this deprecated code someday.(ÁÓöË
+_
+java:S6355ş"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ÿ"5Do not forget to remove this deprecated code someday.(‹“Æïùÿÿÿÿ
+L
+java:S1133‰"5Do not forget to remove this deprecated code someday.(·—øÓ
+_
+java:S6355“"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+K
+java:S1133”"5Do not forget to remove this deprecated code someday.(×Ú§
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(ÁİÛÓ
+_
+java:S6355¨"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133©"5Do not forget to remove this deprecated code someday.(­‘Šäıÿÿÿÿ
+L
+java:S1133³"5Do not forget to remove this deprecated code someday.(Û‰Ù‘
+L
+java:S1133¾"5Do not forget to remove this deprecated code someday.(½Ö´
+_
+java:S6355È"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133É"5Do not forget to remove this deprecated code someday.(’ÒâŸ
+L
+java:S1133Ó"5Do not forget to remove this deprecated code someday.(±¥Ê®
+L
+java:S1133Ş"5Do not forget to remove this deprecated code someday.(ø–Ùü
+_
+java:S6355è"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133é"5Do not forget to remove this deprecated code someday.(û°‡Âüÿÿÿÿ
+K
+java:S1133ó"5Do not forget to remove this deprecated code someday.(ÒËx
+_
+java:S6355ı"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133ş"5Do not forget to remove this deprecated code someday.(¨¿¦
+K
+java:S1133ˆ"5Do not forget to remove this deprecated code someday.(ï¼ç
+_
+java:S6355’"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133“"5Do not forget to remove this deprecated code someday.(„îµ†
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(éòÛøÿÿÿÿ
+_
+java:S6355§"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133¨"5Do not forget to remove this deprecated code someday.(÷ˆ›ƒøÿÿÿÿ
+L
+java:S1133²"5Do not forget to remove this deprecated code someday.(·—øÓ
+_
+java:S6355¼"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133½"5Do not forget to remove this deprecated code someday.(šÙßºûÿÿÿÿ
+Q
+java:S1133Ê"5Do not forget to remove this deprecated code someday.(ôŸ¯Ÿüÿÿÿÿ
+Q
+java:S1133Ô"5Do not forget to remove this deprecated code someday.(í®Ñ™şÿÿÿÿ
+Q
+java:S1133Ş"5Do not forget to remove this deprecated code someday.(œ®ƒùÿÿÿÿÿ
+L
+java:S1133è"5Do not forget to remove this deprecated code someday.(ëƒÿ”
+_
+java:S6355ò"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133ó"5Do not forget to remove this deprecated code someday.(£à™
+L
+java:S1133ı"5Do not forget to remove this deprecated code someday.(±¥Ê®
+_
+java:S6355‡"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ˆ"5Do not forget to remove this deprecated code someday.(Õ…Ú€şÿÿÿÿ
+L
+java:S1133’"5Do not forget to remove this deprecated code someday.(·—øÓ
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(±¥Ê®
+_
+java:S6355§"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133¨"5Do not forget to remove this deprecated code someday.(ôªÜ‚
+L
+java:S1133²"5Do not forget to remove this deprecated code someday.(·—øÓ
+L
+java:S1133½"5Do not forget to remove this deprecated code someday.(±¥Ê®
+_
+java:S6355Ç"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133È"5Do not forget to remove this deprecated code someday.(¼Şø´ÿÿÿÿÿ
+L
+java:S1133Ò"5Do not forget to remove this deprecated code someday.(™¸…Ú
+_
+java:S6355Ü"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133İ"5Do not forget to remove this deprecated code someday.(›üŞšüÿÿÿÿ
+L
+java:S1133ç"5Do not forget to remove this deprecated code someday.(•ëØ
+_
+java:S6355ñ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ò"5Do not forget to remove this deprecated code someday.(‘¥¶ëüÿÿÿÿ
+L
+java:S1133ş"5Do not forget to remove this deprecated code someday.(·—øÓ
+L
+java:S1133ˆ"5Do not forget to remove this deprecated code someday.(°–İÊ
+Q
+java:S1133’"5Do not forget to remove this deprecated code someday.(£®¼õûÿÿÿÿ
+_
+java:S6355œ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(€ãÎ
+L
+java:S1133§"5Do not forget to remove this deprecated code someday.(±¥Ê®
+_
+java:S6355±"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133²"5Do not forget to remove this deprecated code someday.(ˆÜŞÄùÿÿÿÿ
+L
+java:S1133¼"5Do not forget to remove this deprecated code someday.(±¥Ê®
+_
+java:S6355Æ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133Ç"5Do not forget to remove this deprecated code someday.(ˆéœ³ùÿÿÿÿ
+Q
+java:S1133Ñ"5Do not forget to remove this deprecated code someday.(ğ•á…ùÿÿÿÿ
+L
+java:S1133Ü"5Do not forget to remove this deprecated code someday.(±¥Ê®
+Q
+java:S1133ç"5Do not forget to remove this deprecated code someday.(£Ÿ¡åşÿÿÿÿ
+_
+java:S6355ñ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ò"5Do not forget to remove this deprecated code someday.(…´¡æúÿÿÿÿ
+L
+java:S1133ü"5Do not forget to remove this deprecated code someday.(£òñ§
+_
+java:S6355†	"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133‡	"5Do not forget to remove this deprecated code someday.(Ë§áæ
+L
+java:S1133‘	"5Do not forget to remove this deprecated code someday.(Û‰Ù‘
+L
+java:S1133œ	"5Do not forget to remove this deprecated code someday.(±¥Ê®
+_
+java:S6355¦	"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133§	"5Do not forget to remove this deprecated code someday.(„¬Ñ¯ùÿÿÿÿ
+L
+java:S1133±	"5Do not forget to remove this deprecated code someday.(±¥Ê®
+_
+java:S6355»	"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+K
+java:S1133¼	"5Do not forget to remove this deprecated code someday.(Üüó
+Q
+java:S1133Æ	"5Do not forget to remove this deprecated code someday.(˜£Ãüıÿÿÿÿ
+_
+java:S6355Ğ	"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+K
+java:S1133Ñ	"5Do not forget to remove this deprecated code someday.(ø¥a
+L
+java:S1133Û	"5Do not forget to remove this deprecated code someday.(Û‰Ù‘
+L
+java:S1133æ	"5Do not forget to remove this deprecated code someday.(±¥Ê®
+_
+java:S6355ğ	"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ñ	"5Do not forget to remove this deprecated code someday.(î¼¾øÿÿÿÿ
+Q
+java:S1133ü	"5Do not forget to remove this deprecated code someday.(İ¡àèüÿÿÿÿ
+K
+java:S1133‡
+"5Do not forget to remove this deprecated code someday.(ï¼ç
+Q
+java:S1133’
+"5Do not forget to remove this deprecated code someday.(ôŸ¯Ÿüÿÿÿÿ
+L
+java:S1133
+"5Do not forget to remove this deprecated code someday.(ÎÏúõ
+L
+java:S1133¨
+"5Do not forget to remove this deprecated code someday.(“ÛàÔ
+L
+java:S1133³
+"5Do not forget to remove this deprecated code someday.(È–¯×
+L
+java:S1133½
+"5Do not forget to remove this deprecated code someday.(øŠÙ‡
+_
+java:S6355Ç
+"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133È
+"5Do not forget to remove this deprecated code someday.(»ÿå
+L
+java:S1133Ò
+"5Do not forget to remove this deprecated code someday.(ô­¢—
+_
+java:S6355Ü
+"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133İ
+"5Do not forget to remove this deprecated code someday.(ÛËŒ
+L
+java:S1133è
+"5Do not forget to remove this deprecated code someday.(·—øÓ
+Q
+java:S1133ò
+"5Do not forget to remove this deprecated code someday.(Ìİ¯Šşÿÿÿÿ
+_
+java:S6355ü
+"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ı
+"5Do not forget to remove this deprecated code someday.(à£—¹ÿÿÿÿÿ
+L
+java:S1133‡"5Do not forget to remove this deprecated code someday.(Û‰Ù‘
+Q
+java:S1133’"5Do not forget to remove this deprecated code someday.(õ®Õ¿úÿÿÿÿ
+_
+java:S6355œ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(Ş¯ùüÿÿÿÿ
+Q
+java:S1133¨"5Do not forget to remove this deprecated code someday.(ˆš•Ïüÿÿÿÿ
+L
+java:S1133²"5Do not forget to remove this deprecated code someday.(ƒîâÏ
+_
+java:S6355¼"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133½"5Do not forget to remove this deprecated code someday.(­î‰—ÿÿÿÿÿ
+L
+java:S1133Ç"5Do not forget to remove this deprecated code someday.(Û‰Ù‘
+L
+java:S1133Ò"5Do not forget to remove this deprecated code someday.(Ùîáß
+_
+java:S6355Ü"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133İ"5Do not forget to remove this deprecated code someday.(à–¤ğÿÿÿÿÿ
+L
+java:S1133é"5Do not forget to remove this deprecated code someday.(Û‰Ù‘
+L
+java:S1133ô"5Do not forget to remove this deprecated code someday.(°õëœ
+Q
+java:S1133ş"5Do not forget to remove this deprecated code someday.(ıíòÍøÿÿÿÿ
+L
+java:S1133ˆ"5Do not forget to remove this deprecated code someday.(ª„É
+_
+java:S6355’"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133“"5Do not forget to remove this deprecated code someday.(“ŒÍŞ
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(İñş»üÿÿÿÿ
+Q
+java:S1133¨"5Do not forget to remove this deprecated code someday.(Ä¤äñşÿÿÿÿ
+_
+java:S6355²"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133³"5Do not forget to remove this deprecated code someday.(ÒŒ¡Õ
+L
+java:S1133½"5Do not forget to remove this deprecated code someday.(Û‰Ù‘
+Q
+java:S1133È"5Do not forget to remove this deprecated code someday.(ÕÁûÙûÿÿÿÿ
+_
+java:S6355Ò"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133Ó"5Do not forget to remove this deprecated code someday.(¾˜ø²ûÿÿÿÿ
+L
+java:S1133İ"5Do not forget to remove this deprecated code someday.(ƒÍ½Î
+_
+java:S6355ç"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133è"5Do not forget to remove this deprecated code someday.(‰Ñ€–ÿÿÿÿÿ
+Q
+java:S1133ò"5Do not forget to remove this deprecated code someday.(õ¿—’ûÿÿÿÿ
+_
+java:S6355ü"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133ı"5Do not forget to remove this deprecated code someday.(îÉ°’
+L
+java:S1133ˆ"5Do not forget to remove this deprecated code someday.(ğæ§í
+L
+java:S1133’"5Do not forget to remove this deprecated code someday.(÷íÌı
+_
+java:S6355œ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(ÅÊÁÛşÿÿÿÿ
+L
+java:S1133§"5Do not forget to remove this deprecated code someday.(Ç“Øú
+_
+java:S6355±"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133²"5Do not forget to remove this deprecated code someday.(àçÈË
+L
+java:S1133¼"5Do not forget to remove this deprecated code someday.(Ç“Øú
+_
+java:S6355Æ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133Ç"5Do not forget to remove this deprecated code someday.(ğÖ¦Ú
+Q
+java:S1133Ò"5Do not forget to remove this deprecated code someday.(øªÉùÿÿÿÿ
+Q
+java:S1133İ"5Do not forget to remove this deprecated code someday.(ğ•á…ùÿÿÿÿ
+Q
+java:S1133ç"5Do not forget to remove this deprecated code someday.(ÀæÀùøÿÿÿÿ
+_
+java:S6355ñ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ò"5Do not forget to remove this deprecated code someday.(óÀ´Êşÿÿÿÿ
+L
+java:S1133ü"5Do not forget to remove this deprecated code someday.(ÒáÙˆ
+_
+java:S6355†"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133‡"5Do not forget to remove this deprecated code someday.(œÀÔıüÿÿÿÿ
+L
+java:S1133‘"5Do not forget to remove this deprecated code someday.(Ç“Øú
+_
+java:S6355›"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133œ"5Do not forget to remove this deprecated code someday.(Ë¦üØ
+L
+java:S1133§"5Do not forget to remove this deprecated code someday.(¬«²
+L
+java:S1133±"5Do not forget to remove this deprecated code someday.(È™÷’
+_
+java:S6355»"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133¼"5Do not forget to remove this deprecated code someday.(ª®ËÅ
+Q
+java:S1133Æ"5Do not forget to remove this deprecated code someday.(Ìí¼ˆúÿÿÿÿ
+_
+java:S6355Ğ"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133Ñ"5Do not forget to remove this deprecated code someday.(¨ù¦çıÿÿÿÿ
+L
+java:S1133Û"5Do not forget to remove this deprecated code someday.(Ç“Øú
+_
+java:S6355å"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133æ"5Do not forget to remove this deprecated code someday.(Ùµôƒ
+Q
+java:S1133ğ"5Do not forget to remove this deprecated code someday.(øªÉùÿÿÿÿ
+_
+java:S6355ú"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133û"5Do not forget to remove this deprecated code someday.(øÅ§´úÿÿÿÿ
+L
+java:S1133…"5Do not forget to remove this deprecated code someday.(ĞÎä
+_
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133"5Do not forget to remove this deprecated code someday.(ô…÷ï
+K
+java:S1133›"5Do not forget to remove this deprecated code someday.(ï¼ç
+Q
+java:S1133¦"5Do not forget to remove this deprecated code someday.(Ó¸¶éúÿÿÿÿ
+Q
+java:S1133±"5Do not forget to remove this deprecated code someday.(À¹³üÿÿÿÿ
+Q
+java:S1133»"5Do not forget to remove this deprecated code someday.(ŠŠó§øÿÿÿÿ
+_
+java:S6355Å"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133Æ"5Do not forget to remove this deprecated code someday.(ø‘ô
+L
+java:S1133Ğ"5Do not forget to remove this deprecated code someday.(ÕĞ³È
+_
+java:S6355Ú"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133Û"5Do not forget to remove this deprecated code someday.(ÿ¶¹¸ùÿÿÿÿ
+Q
+java:S1133å"5Do not forget to remove this deprecated code someday.(à¸ØÀÿÿÿÿÿ
+_
+java:S6355ï"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133ğ"5Do not forget to remove this deprecated code someday.(Ş§à‚úÿÿÿÿ
+L
+java:S1133û"5Do not forget to remove this deprecated code someday.(Û‰Ù‘
+L
+java:S1133…"5Do not forget to remove this deprecated code someday.(ş·À
+_
+java:S6355"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+Q
+java:S1133"5Do not forget to remove this deprecated code someday.(­œıÿÿÿÿ
+L
+java:S1133š"5Do not forget to remove this deprecated code someday.(Ë›™
+_
+java:S6355¬"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+L
+java:S1133­"5Do not forget to remove this deprecated code someday.(Î¾çò

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">题库</string>
+    <string name="app_text_book">教材同步</string>
+    <string name="app_test_paper">名校试卷</string>
+    <string name="app_wrong_question">错题本</string>
+    <string name="app_pre_exam">考前测评</string>
+</resources>
