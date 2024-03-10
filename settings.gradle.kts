@@ -20,11 +20,10 @@ dependencyResolutionManagement {
 
 rootProject.name = "QuestionBank"
 include(":app")
-include(":app")
-include(":sync:work")
-include(":core:common")
-include(":feature:exam")
+
 include(":feature:usercenter")
 include(":feature:tiku")
-include(":feature:brush_writing")
+
+include(":core:common")
 include(":core:map_module")
+include(":feature:mobike_navogation")

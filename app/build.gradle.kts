@@ -97,7 +97,7 @@ dependencies {
     implementation(libs.androidx.lifecycle.livedata.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     // 本地库
-    implementation(project(mapOf("path" to ":feature:exam")))
+//    implementation(project(mapOf("path" to ":feature:exam")))
     implementation(project(mapOf("path" to ":feature:tiku")))
     implementation(project(mapOf("path" to ":feature:usercenter")))
 
